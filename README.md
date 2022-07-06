@@ -1,7 +1,7 @@
 # Metacognition-and-Drowsiness
 This repository was created for a poster presented at the ASSC2022. It contains three documents:
 
-1) The Results documents contains all results, displayed on the poster or not, with some additional information.
+1) The Results document contains all results, displayed on the poster or not, with some additional information.
 
 2) The Discussion document gathers the implications from these results.
 
