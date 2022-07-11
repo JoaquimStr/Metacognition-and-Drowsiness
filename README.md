@@ -1,7 +1,7 @@
 # Metacognition-and-Drowsiness
 This repository was created as support for a poster presented at the ASSC 25. It contains a pdf subdivided into two sections:
 
-1) The Results section contains additional figures. 
+1) The Results section contains additional figures.
 
 2) The Next steps section gathers future directions the authors are considering — your input is very welcome!
 
